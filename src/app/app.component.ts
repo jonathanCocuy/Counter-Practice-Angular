@@ -9,7 +9,7 @@ import {bootstrapApplication} from '@angular/platform-browser';
 })
 
 export class AppComponent {
-    title = 'ProyectoAngular';
+    title = 'ProyectoAngular'; 
 
     count = 0;
 
