@@ -5,7 +5,7 @@ import {bootstrapApplication} from '@angular/platform-browser';
 @Component({
   selector: 'app-contador',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.css'] 
 })
 
 export class AppComponent {
